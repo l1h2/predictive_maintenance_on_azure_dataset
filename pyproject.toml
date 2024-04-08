@@ -1,0 +1,5 @@
+[tool.project-metadata]
+name = "ML-Project"
+version = "1.0.0"
+python = "3.12"
+packages = ["pandas", "numpy", "ipykernel", "sklearn", "matplotlib", "seaborn"]
